@@ -1,0 +1,9 @@
+# Arquivos de editores e IDEs
+.idea/
+
+# Bytecode
+out/
+*.class
+
+# Outros
+*.iml
